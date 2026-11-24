@@ -11,7 +11,7 @@ building a server for data collection and visualization.
 
 ## Tech stack
 
-- **Languages:** Python, JavaScript, SQL, C, C++
+- **Languages:** Python, JavaScript, TypeScript, SQL, C, C++
 - **Frontend:** React, Next.js, Vite, Tailwind CSS
 - **Backend:** FastAPI, Flask, Node.js, SQLAlchemy, REST APIs, JWT authentication
 - **Data:** PostgreSQL, Pandas, NumPy
