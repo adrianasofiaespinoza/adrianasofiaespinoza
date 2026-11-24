@@ -41,9 +41,3 @@ More of my work is on my [portfolio](https://portafolio-phi-umber-76.vercel.app/
 - Portfolio: [portafolio-phi-umber-76.vercel.app](https://portafolio-phi-umber-76.vercel.app/)
 - LinkedIn: [linkedin.com/in/adriana--espinoza](https://www.linkedin.com/in/adriana--espinoza/)
 - Email: [adrianasofiaespinoza23@gmail.com](mailto:adrianasofiaespinoza23@gmail.com)
-
----
-
-**En español:** soy estudiante de Computación en la Universidad Yachay Tech (Ecuador) y desarrolladora
-full-stack con interés en inteligencia artificial. Construyo aplicaciones web con React, FastAPI y
-PostgreSQL, y busco prácticas o un primer empleo.
